@@ -1,0 +1,1 @@
+O desenvolvimento web é um campo em constante evolução, repleto de ferramentas e práticas que ajudam os desenvolvedores a criar sites e aplicações web de forma mais eficiente e com maior qualidade. Este eBook destina-se a fornecer uma visão geral e prática de algumas das ferramentas mais importantes e avançadas utilizadas no desenvolvimento web moderno.
